@@ -1,5 +1,6 @@
 # gym_basic_robots
-An implementation of pathfinding for warehouse robots in a gym environment using A* search.
+TODO:
+- Add info here
 
 ## You need to run these commands for installation.
 $ tar xvfz hw1.tar.gz
